@@ -1,0 +1,5 @@
+nombre: Dylan
+cabello: castaño oscuro
+color de piel: moreno
+talla de calzado: 30
+talla de camisa: 10Y

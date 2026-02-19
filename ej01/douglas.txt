@@ -1,0 +1,5 @@
+nombre: Douglas
+cabello: negro
+color de piel: blanco
+talla de calzado: 40
+talla de camisa: L

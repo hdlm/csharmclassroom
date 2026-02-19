@@ -1,0 +1,5 @@
+nombre: Vicmiry
+cabello: violeta
+color de piel: morena
+talla de calzado: 37
+talla de camisa: L
