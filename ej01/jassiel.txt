@@ -3,3 +3,4 @@ cabello: castaño oscuro
 color de piel: morena
 talla de calzado: 39
 talla de camisa: S
+nacionalidad: venezolana
