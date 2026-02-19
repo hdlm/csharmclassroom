@@ -1,0 +1,11 @@
+@startuml
+
+entity Usuario {
+ cedula: Int
+ nombre: String
+ edad: Int
+ telefono: String
+ direccion: String
+}
+
+@enduml
