@@ -1,0 +1,6 @@
+nombre = Daniel
+apellido = Rivas
+edad = 19
+telefono = 0414-0009988
+sexo = m
+cedula = 31234567

@@ -1,0 +1,5 @@
+nombre = Victor
+apellido = Cordova
+edad = 27
+telefono = 0426-6478954
+cedula = 29786654

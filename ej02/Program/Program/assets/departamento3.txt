@@ -1,0 +1,3 @@
+nombre: contabilidad
+oficina: 003
+NoMaxEmpleados: 16

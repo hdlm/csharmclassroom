@@ -1,0 +1,6 @@
+nombre = Ricardo
+apellido = Gomez
+edad = 45
+telefono = 0424-3210987
+sexo = m
+cedula = 15678901

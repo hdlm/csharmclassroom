@@ -1,0 +1,6 @@
+nombre = Gabriela
+apellido = Perez
+edad = 27
+telefono = 0412-7778899
+sexo = f
+cedula = 26001234

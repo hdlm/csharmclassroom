@@ -1,0 +1,3 @@
+nombre: recursos humanos
+oficina: 001
+NoMaxEmpleados: 10

@@ -1,0 +1,3 @@
+nombre: informatica
+oficina: 002
+NoMaxEmpleados: 25

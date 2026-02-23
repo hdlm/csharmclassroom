@@ -1,0 +1,6 @@
+nombre = Camila
+apellido = Torres
+edad = 30
+telefono = 0416-3332211
+sexo = f
+cedula = 22789456

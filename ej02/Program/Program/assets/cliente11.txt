@@ -1,0 +1,6 @@
+nombre = Sofia
+apellido = Blanco
+edad = 25
+telefono = 0412-5554433
+sexo = f
+cedula = 27654321

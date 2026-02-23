@@ -1,0 +1,6 @@
+nombre = Felipe
+apellido = Gonzales
+edad = 35
+telefono = 0212-9877949
+sexo = m
+cedula = 10993845
