@@ -2,5 +2,6 @@ nombre = Andres
 apellido = Marquez
 edad = 41
 telefono = 0424-8887766
+direccion = Las mercedes
 sexo = m
 cedula = 16112233

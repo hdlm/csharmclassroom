@@ -2,5 +2,6 @@ nombre = Luis
 apellido = Hernandez
 edad = 52
 telefono = 0424-6663322
+direccion = Av. Andres Bello
 sexo = m
 cedula = 12456789

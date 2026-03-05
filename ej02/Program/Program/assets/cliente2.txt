@@ -2,5 +2,6 @@ nombre = Alejandro
 apellido = Rodriguez
 edad = 28
 telefono = 0414-5551234
+direccion = Chacao
 sexo = m
 cedula = 24567890

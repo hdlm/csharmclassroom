@@ -2,5 +2,6 @@ nombre = Gabriela
 apellido = Perez
 edad = 27
 telefono = 0412-7778899
+direccion = La cota
 sexo = f
 cedula = 26001234

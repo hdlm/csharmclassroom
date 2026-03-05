@@ -2,5 +2,6 @@ nombre = Marianne
 apellido = Rojas
 edad = 34
 telefono = 0426-5049722
+direccion = Las acacias
 sexo = f
 cedula = 29110555

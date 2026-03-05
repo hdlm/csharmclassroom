@@ -2,5 +2,6 @@ nombre = Martha
 apellido = Nieves
 edad = 31
 telefono = 0424-2113098
+direccion = Los dos caminos
 sexo = f
 cedula = 26721234

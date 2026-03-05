@@ -2,5 +2,6 @@ nombre = Elena
 apellido = Vargas
 edad = 39
 telefono = 0416-2228811
+direccion = La campiña
 sexo = f
 cedula = 17890123

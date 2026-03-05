@@ -2,5 +2,6 @@ nombre = Valentina
 apellido = Mendoza
 edad = 22
 telefono = 0416-4445566
+direccion = La urbina
 sexo = f
 cedula = 29345678

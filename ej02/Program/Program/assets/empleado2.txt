@@ -2,5 +2,6 @@ nombre = Sarah
 apellido = Sanchez
 edad = 26
 telefono = 0414-7275640
+direccion = La campiña
 sexo = f
 cedula = 28700456

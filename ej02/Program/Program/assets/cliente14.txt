@@ -2,5 +2,6 @@ nombre = Oscar
 apellido = Salazar
 edad = 60
 telefono = 0414-9990011
+direccion = La california
 sexo = m
 cedula = 8987654

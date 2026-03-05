@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Program;
+using System;
 
 namespace practica1
 {
@@ -6,6 +7,31 @@ namespace practica1
     {
         static void Main(string[] args)
         {
+            // Ejemplo de lectura de un archivo de texto linea a linea
+
+            string ruta = "C:\\Users\\rojas\\Desktop\\csharp\\classroom\\ej02\\Program\\Program\\assets\\usuarios.cvs";
+
+
+
+            using (StreamReader lector = new StreamReader(ruta))
+            {
+                string linea;
+
+                // Leer línea por línea hasta que no haya más (null)
+                while ((linea = lector.ReadLine()) != null)
+                {
+                    string[] campos = linea.Split(',');
+                    // Usuario usuario = new Usuario(campos[0], campos[1], int.Parse(campos[2]), campos[3], campos[4], int.Parse(campos[5]));
+                    // Cliente cliente = new Cliente(campos[0], campos[1], int.Parse(campos[2]), campos[3], campos[4], int.Parse(campos[5]), 65, 23, 26);
+                    Empleado empleado = new Empleado(campos[0], campos[1], int.Parse(campos[2]), campos[3], campos[4], int.Parse(campos[5]), 65, 23, "marketing");
+                    Console.WriteLine(empleado.ToString());
+                }
+            }
+
+            Console.WriteLine("Lectura finalizada.");
+
+
+            /*
             //Ejercicio 1: operaciones enteras basicas
             //suma
             int add = 428 + 593;
@@ -77,6 +103,8 @@ namespace practica1
 
             string time = $"0{finalHours}:{finalMins}:0{finalSecs}";
             Console.WriteLine("8. La duracion total es: " + time);
+            */
+
         }
     }
 }

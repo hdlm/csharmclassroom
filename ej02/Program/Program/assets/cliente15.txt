@@ -2,5 +2,6 @@ nombre = Isabella
 apellido = Martinez
 edad = 23
 telefono = 0412-1234321
+direccion = La candelaria
 sexo = f
 cedula = 28543210

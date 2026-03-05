@@ -8,5 +8,7 @@ namespace Program
     {
         int fechaDeTransaccion;
         string tipoOperacion = "retiro, deposito, transferencia";
+        int idCuentaReceptora;
+        int idCuentaEmisora;
     }
 }

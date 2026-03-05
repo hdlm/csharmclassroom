@@ -2,5 +2,6 @@ nombre = Mariana
 apellido = Castillo
 edad = 34
 telefono = 0412-9876543
+direccion = Las mercedes
 sexo = f
 cedula = 19123456

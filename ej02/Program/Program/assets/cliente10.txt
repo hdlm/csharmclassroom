@@ -2,5 +2,6 @@ nombre = Daniel
 apellido = Rivas
 edad = 19
 telefono = 0414-0009988
+direccion = Chacaito
 sexo = m
 cedula = 31234567

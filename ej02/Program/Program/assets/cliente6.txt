@@ -2,5 +2,6 @@ nombre = Javier
 apellido = Colmenares
 edad = 31
 telefono = 0414-1112233
+direccion = La candelaria
 sexo = m
 cedula = 21987654
